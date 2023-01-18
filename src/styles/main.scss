@@ -1,0 +1,21 @@
+@import "test.scss";
+$accent: #bf4080;
+
+:root {
+  user-select: none;
+}
+
+html, body {
+  min-height: 100vh;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  & > div {
+    font-size: 2.5rem;
+    color: $accent;
+  }
+}

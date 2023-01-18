@@ -1,7 +1,17 @@
 {
-  "styles/style.css": {
-    "file": "assets/style-15192422.css",
-    "src": "styles/style.css",
+  "styles/test.scss": {
+    "file": "assets/test-1b290614.css",
+    "src": "styles/test.scss",
+    "isEntry": true
+  },
+  "styles/main.scss": {
+    "file": "assets/main-daafccb8.css",
+    "src": "styles/main.scss",
+    "isEntry": true
+  },
+  "scripts/app.js": {
+    "file": "assets/app-b74bd8bc.js",
+    "src": "scripts/app.js",
     "isEntry": true
   }
 }
